@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/WendyX/"
   - label: Email
-    url: "wendyxieyang@gmail.com"
+    url: "maitlo:wendyxieyang@gmail.com"
   - label: Google scholar
     url: "https://scholar.google.com/citations?user=VCv3Wa8AAAAJ&hl=en&inst=8389273007308439986"
   - label: 小红书
